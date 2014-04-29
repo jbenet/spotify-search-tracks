@@ -1,0 +1,26 @@
+{
+  "name": "spotify-search-tracks",
+  "version": "0.0.1",
+  "description": "search spotify web api for tracks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jbenet/spotify-search-tracks"
+  },
+  "keywords": [
+    "spotify",
+    "web",
+    "search"
+  ],
+  "author": "Juan Benet <juan@benet.ai> (jbenet)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jbenet/spotify-search-tracks/issues"
+  },
+  "dependencies": {
+    "request": "~2.34.0"
+  }
+}
